@@ -4,7 +4,7 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
-![portada](https://github.com/aprendiendo-cosas/C_agrogana_rege_gesteco/raw/main/images/almendro.jpeg) 
+![portada](https://github.com/aprendiendo-cosas/C_agrogana_regen_gesteco/raw/2022_2023/images/almendro.jpeg) 
 
 ## Ubicación
 
@@ -38,7 +38,7 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 - emplear métodos de cultivo mas eficiente, como p.ej., evitando los monocultivos concatenados, los cuales son especialmente (mas faciles de ser atacadas) sensibles a las plagas.
   En contra posición, emplear el cultivo de mosaico, en el cual se trata de diversificar (con diferentes especies vegetales) el cultivo a gran/media escala
-- La implementación de cultivos para ayudar a la hora de la lluvia que el agua no genere demasiados daños en la plantación de ciertos cultivos arbóreos
+- La implementación de cultivos para ayudar a la hora de la lluvia que el agua no genere demasiados daños en la plantación de ciertos cultivos arbóreos.
 - aprovechamiento de los límites de las terrazas con la plantación de aromáticas ecológicas, aumentando también la cobertura vegetal.
 - la importancia que cobra la palabra resiliencia en la naturaleza
 - no apostar solo a una opción, sino englobar varias para que se complementen. Ejemplo: almendros, plantas aromáticas, leguminosas y ganado
@@ -47,19 +47,19 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 ## Algunas fotos
 
-![Foto grupo](https://github.com/aprendiendo-cosas/C_agrogana_rege_gesteco/raw/main/images/grupo_almendrehesa.jpg)
+![Foto grupo](https://github.com/aprendiendo-cosas/C_agrogana_regen_gesteco/raw/2022_2023/images/grupo_almendrehesa.jpg)
 
-![1](https://github.com/aprendiendo-cosas/C_agrogana_rege_gesteco/raw/main/images/1.JPG)
+![1](https://github.com/aprendiendo-cosas/C_agrogana_regen_gesteco/raw/2022_2023/images/1.JPG)
 
-![2](https://github.com/aprendiendo-cosas/C_agrogana_rege_gesteco/raw/main/images/2.JPG)
+![2](https://github.com/aprendiendo-cosas/C_agrogana_regen_gesteco/raw/2022_2023/images/2.JPG)
 
-![3](https://github.com/aprendiendo-cosas/C_agrogana_rege_gesteco/raw/main/images/3.JPG)
+![3](https://github.com/aprendiendo-cosas/C_agrogana_regen_gesteco/raw/2022_2023/images/3.JPG)
 
-![4](https://github.com/aprendiendo-cosas/C_agrogana_rege_gesteco/raw/main/images/4.JPG)
+![4](https://github.com/aprendiendo-cosas/C_agrogana_regen_gesteco/raw/2022_2023/images/4.JPG)
 
-![5](https://github.com/aprendiendo-cosas/C_agrogana_rege_gesteco/raw/main/images/5.JPG)
+![5](https://github.com/aprendiendo-cosas/C_agrogana_regen_gesteco/raw/2022_2023/images/5.JPG)
 
-![6](https://github.com/aprendiendo-cosas/C_agrogana_rege_gesteco/raw/main/images/6.JPG)
+![6](https://github.com/aprendiendo-cosas/C_agrogana_regen_gesteco/raw/2022_2023/images/6.JPG)
 
 
 
